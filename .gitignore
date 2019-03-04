@@ -1,7 +1,5 @@
 *.pyc
 __pycache__
-01
-02
-venv
+myvenv
 db.sqlite3
 .DS_Store
